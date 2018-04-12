@@ -73,6 +73,11 @@ table {
   color: red; }
 
 .test {
-  font-family: "Montserrat-Medium"; }
+  font-family: "Montserrat-Medium";
+  color: blue;
+}
 
+.develop {
+  margin: 0;
+}
 /*# sourceMappingURL=../maps/main.css.map */
