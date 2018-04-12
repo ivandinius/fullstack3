@@ -74,7 +74,10 @@ table {
 
 .test {
   font-family: "Montserrat-Medium";
-  color: red;
+  color: blue;
 }
 
+.develop {
+  margin: 0;
+}
 /*# sourceMappingURL=../maps/main.css.map */
